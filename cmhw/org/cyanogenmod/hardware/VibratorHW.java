@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package org.mokee.hardware;
+package org.cyanogenmod.hardware;
 
-import org.mokee.hardware.util.FileUtils;
+import org.cyanogenmode.hardware.util.FileUtils;
 import java.io.File;
 
 public class VibratorHW {
